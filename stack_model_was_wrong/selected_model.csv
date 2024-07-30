@@ -1,0 +1,5 @@
+,0
+GW1,SVC(C=1)
+GW2,KNeighborsClassifier(n_neighbors=7)
+GW3,SVC(C=1)
+GW4,SVC(C=1)
